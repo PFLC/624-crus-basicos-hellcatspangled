@@ -44,6 +44,11 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 - **Funcionalidad:** Facilita la eliminación de un usuario de la base de datos.
 - **Características:** 
   - Eliminación de información de usuario basada en el ID de usuario.
+  - 
+### Update (Actualizar): 
+Esta operación permite modificar los registros existentes en la base de datos.
+En una aplicación, esto puede implicar la presentación de un formulario precargado con los datos existentes
+que el usuario puede modificar según sea necesario. 
 
 ## Conexión a la Base de Datos (`connect.php`)
 
